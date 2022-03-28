@@ -1,7 +1,6 @@
 package Pertemuan3;
 
-public class Main {
-
+public cl
     public static void main(String[] args) {
 	// write your code here
     }
